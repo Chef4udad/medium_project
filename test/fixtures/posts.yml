@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  author: 1
+  img: MyString
+  title: MyString
+  no_of_likes: 1
+
+two:
+  author: 1
+  img: MyString
+  title: MyString
+  no_of_likes: 1
